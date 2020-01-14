@@ -3,7 +3,7 @@
 class Tree {
 
   static defition() {
-    
+
   }
-  
+
 }
