@@ -10,3 +10,11 @@ class Tree {
   }
 
 }
+
+class Deciduous {
+  
+}
+
+class Evergreen {
+  
+}
