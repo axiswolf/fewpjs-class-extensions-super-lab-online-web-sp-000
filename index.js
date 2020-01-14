@@ -11,7 +11,7 @@ class Tree {
 
 }
 
-class Deciduous {
+class Deciduous extends Tree {
 
   constructor(species, name) {
 
@@ -19,7 +19,7 @@ class Deciduous {
 
 }
 
-class Evergreen {
+class Evergreen extends Tree {
   constructor() {
 
   }
